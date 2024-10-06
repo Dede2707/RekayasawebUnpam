@@ -1,0 +1,24 @@
+body{
+    background-image: url(img/img-3.png);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+
+}
+input{
+    border-radius: 10px;
+    height: 25px;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    text-decoration: solid;
+}
+label{
+    text-align: center;
+}
+button{
+    border-radius: 10px;
+    height: 25px;
+    background-color: transparent;
+    text-decoration: none;
+}
